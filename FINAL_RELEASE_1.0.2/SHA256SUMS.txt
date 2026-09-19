@@ -1,0 +1,3 @@
+daecbe7baebe5686de52facecb2588ed3b9ba8b76198b8d04ffa6e817208a6c8  FINAL_RELEASE_1.0.2/CashTally-v1.0.2-Release.apk
+da76883fd270fe0dad096ff9f8241f6b64c060b2f0ea1161ec8bf0d3769e1ab2  FINAL_RELEASE_1.0.2/CashTally-v1.0.2-Release.aab
+51d1c6d3fc08f02bd8cab181605a32780469b142a6ee0293cdd269b06dc9568a  FINAL_RELEASE_1.0.2/cashtally-release.jks
